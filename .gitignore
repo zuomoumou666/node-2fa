@@ -1,0 +1,8 @@
+/node_modules
+Cache
+workspace.xml
+.idea
+/Dist
+/dist
+/Public
+.DS_Store
