@@ -23,7 +23,7 @@
     "koa-router": "^7.3.0",
     "koa-static": "^4.0.2",
     "lodash": "^4.17.5",
-    "mongoose": "^4.13.4",
+    "mongoose": "^5.7.5",
     "nodemailer": "^4.6.2",
     "react": "^16.0.0",
     "react-dom": "^16.0.0",
